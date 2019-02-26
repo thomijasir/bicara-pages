@@ -1,0 +1,16 @@
+{
+  "name": "github-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://thomijasir.github.io/bicara-page",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
